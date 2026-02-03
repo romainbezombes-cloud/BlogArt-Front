@@ -1,7 +1,6 @@
 /* Styles dédiés à la page Actualités */
 
 .news-summary__eyebrow {
-    color: #c0392b;
     font-weight: bold;
     margin-bottom: 10px;
 }
@@ -14,7 +13,6 @@
 
 .news-summary__text {
     text-align: center;
-    color: #666;
     max-width: 600px;
     margin: 0 auto;
 }
@@ -48,22 +46,10 @@
 
 .news-card__meta {
     font-size: 14px;
-    color: #999;
     margin-bottom: 5px;
 }
 
 .news-card__title {
     font-size: 20px;
     margin-bottom: 10px;
-}
-
-.news-card__excerpt {
-    color: #555;
-}
-
-.news-empty {
-    text-align: center;
-    padding: 30px;
-    background-color: #fafafa;
-    border: 1px solid #ddd;
 }
