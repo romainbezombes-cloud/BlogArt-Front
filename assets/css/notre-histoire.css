@@ -21,3 +21,8 @@
 .article-content p:last-child {
     margin-bottom: 0;
 }
+
+/* Centrer le titre h1 */
+h1 {
+    text-align: center;
+}
