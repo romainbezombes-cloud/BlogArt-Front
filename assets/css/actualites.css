@@ -1,25 +1,22 @@
 /* Styles dédiés à la page Actualités */
 
-.news-summary {
-    text-align: center;
-    margin-bottom: 3rem;
-}
 
 .news-summary__eyebrow {
     color: var(--bec-accent);
     font-weight: 600;
-    text-transform: uppercase;
     letter-spacing: 0.05em;
     margin-bottom: 0.5rem;
 }
 
 .news-summary__title {
+    text-align: center;
     font-size: 2.5rem;
     font-weight: 700;
     margin-bottom: 1rem;
 }
 
 .news-summary__text {
+    text-align: center;
     font-size: 1.125rem;
     color: #6c757d;
     max-width: 600px;
@@ -27,10 +24,11 @@
 }
 
 .news-filters {
-    margin-bottom: 3rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
     padding: 2rem;
     background-color: #f8f9fa;
-    border-radius: 0.5rem;
+    border-radius: 2rem;
 }
 
 .news-filters__count {
