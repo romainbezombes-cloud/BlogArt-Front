@@ -1,20 +1,14 @@
 /* Styles dédiés à la page Actualités */
 
 .news-summary__eyebrow {
-    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
     margin-bottom: 10px;
 }
 
 .news-summary__title {
-    text-align: center;
     font-size: 32px;
     margin-bottom: 15px;
-}
-
-.news-summary__text {
-    text-align: center;
-    max-width: 600px;
-    margin: 0 auto;
 }
 
 .news-filters {
